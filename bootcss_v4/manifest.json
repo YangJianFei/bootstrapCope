@@ -1,0 +1,20 @@
+{
+    "name": "Bootstrap",
+    "short_name": "Bootstrap",
+    "icons": [
+        {
+            "src": "android-chrome-192x192.png"/*tpa=https://v4.bootcss.com/assets/img/favicons/android-chrome-192x192.png*/,
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "android-chrome-512x512.png"/*tpa=https://v4.bootcss.com/assets/img/favicons/android-chrome-512x512.png*/,
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "theme_color": "#563d7c",
+    "background_color": "#563d7c",
+    "display": "standalone"
+}
